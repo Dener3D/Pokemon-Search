@@ -1,6 +1,6 @@
 # Pokemon Search
 
-An Application for searching pokemons in a list made using React.js
+An Application for searching pokemons in a list. Made using React.js
 
 ## Features
 
