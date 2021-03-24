@@ -1,6 +1,6 @@
 # Pokemon Search
 
-An Application for searching pokemons in a list
+An Application for searching pokemons in a list made using React.js
 
 ## Features
 
@@ -10,7 +10,7 @@ An Application for searching pokemons in a list
 
 ### Highlight Pokemon on mouse over
 
-<img src="https://github.com/Dener3D/Pokemon-Search/blob/main/images/02.JPG" />
+<img src="https://github.com/Dener3D/Pokemon-Search/blob/main/images/02.PNG" />
 
 ### Filter Pokemons
 
