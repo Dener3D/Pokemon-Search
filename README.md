@@ -1,10 +1,24 @@
-# Getting Started with Create React App
+# Pokemon Search
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An Application for searching pokemons in a list
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+### Listing Pokemons
+
+<img src="https://github.com/Dener3D/Pokemon-Search/blob/main/images/01.PNG" />
+
+### Highlight Pokemon on mouse over
+
+<img src="https://github.com/Dener3D/Pokemon-Search/blob/main/images/02.JPG" />
+
+### Filter Pokemons
+
+<img src="https://github.com/Dener3D/Pokemon-Search/blob/main/images/03.PNG" />
+
+### Next and Previous pages
+
+<img src="https://github.com/Dener3D/Pokemon-Search/blob/main/images/04.PNG" />
 
 ### `yarn start`
 
