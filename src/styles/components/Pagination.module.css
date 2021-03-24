@@ -1,0 +1,16 @@
+.paginationContainer{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.paginationContainer button {
+    width: 12rem;
+    height: 2.5rem;
+    font-size: 22px;
+    margin: 0.6rem;
+    background-color: rgb(85, 86, 170);
+    color: white;
+    border-radius: 18px;
+    border: none;
+}
