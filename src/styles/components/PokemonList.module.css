@@ -1,0 +1,29 @@
+.mainContainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto;  
+}
+
+.pokemonCard {
+    box-shadow: 0 0 1px #222;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    margin: 0.5rem;
+    transition: background-color 1s;
+    width: 8rem;
+}
+
+.pokemonCard:hover {
+    background-color: rgb(158, 161, 204);
+}
+
+
+.mainContainer img {
+    height: 8rem;
+}
+
+.nameText {
+    font-size: 20px;
+    color: rgb(121, 121, 121);
+}
